@@ -474,13 +474,13 @@ body {
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 420px) {
   .container button img {
-    width: 100px;
+    width: 120px;
   }
   .container button {
-    top: -124px;
-    right: -105px;
+    top: -141px;
+    right: -122px;
   }
   .ob1 {
     width: 70px;
